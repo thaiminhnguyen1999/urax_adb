@@ -1,5 +1,5 @@
 # Urax ADB
-![PyPI](https://img.shields.io/pypi/v/urax_adb?label=pypi%20package) ![PyPI - Downloads](https://img.shields.io/pypi/dm/urax_adb)
+![PyPI](https://img.shields.io/pypi/v/urax-adb?label=pypi%20package) ![PyPI - Downloads](https://img.shields.io/pypi/dm/urax-adb)
 Running adb on Python made it easier.
 
 # Installation
