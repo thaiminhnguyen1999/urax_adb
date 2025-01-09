@@ -16,7 +16,6 @@ pip install urax_adb==<VERSION>
 # Functions
 | Functions | Feature |
 |:-:|:-:|
-| `urax_adb.adbpath(path)` | Configure path for adb manually |
 | `urax_adb.connect(device, type, port)` | Connect to device |
 | `urax_adb.disconnect(device)` | Disconnect from device |
 | `urax_adb.devices()` | List all connected devices |
